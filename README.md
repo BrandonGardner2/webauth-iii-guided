@@ -1,6 +1,6 @@
 # Web Auth III Guided Project
 
-Guided project for **Web Auth III** Module..
+Guided project for **Web Auth III** Module...
 
 ## Prerequisites
 
